@@ -1,7 +1,7 @@
-Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋 Welcome to my GitHub Profile
 I'm Keith, a Software Engineer with a passion for crafting efficient and scalable solutions. My focus is on Java development and web applications, and I'm continually exploring cloud technologies, DevOps practices, and the fascinating world of machine learning. 🚀
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 🔭 Currently Working On: Java-based back-end systems and modern web applications.
 🌱 Learning:
 Cloud Platforms: AWS
@@ -11,7 +11,7 @@ DevOps Tools: Docker, Kubernetes, Jenkins, and Terraform
 Earn certifications in AWS and Kubernetes
 Build and deploy an end-to-end ML application
 Automate CI/CD pipelines for personal and collaborative projects
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 Programming Languages:
 Java,JavaScript,Sql
 
